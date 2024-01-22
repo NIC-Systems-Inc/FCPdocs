@@ -322,6 +322,258 @@ references:
 - uid: C:Query::NICPBA_ConsumptionByBatch.NICPBA_ProductionOrderBatch.SortOrder
   name: SortOrder
   href: reference/production-batching/Query/NICPBA-ConsumptionByBatch.html
+- uid: C:Query::NICWLP_Build_Item_Not_PWT.ItemTrackingCode.Item.No
+  name: No
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Item-Not-PWT.html
+- uid: C:Query::NICWLP_Build_Item_Not_Tracked.Item.No
+  name: No
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Item-Not-Tracked.html
+- uid: C:Query::NICWLP_Build_Item_PWT.ItemTrackingCode.Item.No
+  name: No
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Item-PWT.html
+- uid: C:Query::NICWLP_Build_LocBinMan_ILE.Location.ItemLedgerEntry.ExpirationDate
+  name: ExpirationDate
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_ILE.Location.ItemLedgerEntry.ItemNo
+  name: ItemNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_ILE.Location.ItemLedgerEntry.LocationCode
+  name: LocationCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_ILE.Location.ItemLedgerEntry.LotNo
+  name: LotNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_ILE.Location.ItemLedgerEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_ILE.Location.ItemLedgerEntry.QtyperUnitofMeasure
+  name: QtyperUnitofMeasure
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_ILE.Location.ItemLedgerEntry.RemainingQuantity
+  name: RemainingQuantity
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_ILE.Location.ItemLedgerEntry.SerialNo
+  name: SerialNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_ILE.Location.ItemLedgerEntry.UnitofMeasureCode
+  name: UnitofMeasureCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_ILE.Location.ItemLedgerEntry.VariantCode
+  name: VariantCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.BinCode
+  name: BinCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.ExpirationDate
+  name: ExpirationDate
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.ItemNo
+  name: ItemNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.LocationCode
+  name: LocationCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.LotNo
+  name: LotNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.QtyperUnitofMeasure
+  name: QtyperUnitofMeasure
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.Quantity
+  name: Quantity
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.SerialNo
+  name: SerialNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.UnitofMeasureCode
+  name: UnitofMeasureCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.VariantCode
+  name: VariantCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_LocBinMan_WE.Location.WarehouseEntry.ZoneCode
+  name: ZoneCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: C:Query::NICWLP_Build_Loc_Blank_ILE.ItemLedgerEntry.ExpirationDate
+  name: ExpirationDate
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_Blank_ILE.ItemLedgerEntry.ItemNo
+  name: ItemNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_Blank_ILE.ItemLedgerEntry.LocationCode
+  name: LocationCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_Blank_ILE.ItemLedgerEntry.LotNo
+  name: LotNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_Blank_ILE.ItemLedgerEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_Blank_ILE.ItemLedgerEntry.QtyperUnitofMeasure
+  name: QtyperUnitofMeasure
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_Blank_ILE.ItemLedgerEntry.RemainingQuantity
+  name: RemainingQuantity
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_Blank_ILE.ItemLedgerEntry.SerialNo
+  name: SerialNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_Blank_ILE.ItemLedgerEntry.UnitofMeasureCode
+  name: UnitofMeasureCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_Blank_ILE.ItemLedgerEntry.VariantCode
+  name: VariantCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_NotBinMan_ILE.Location.ItemLedgerEntry.ExpirationDate
+  name: ExpirationDate
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_NotBinMan_ILE.Location.ItemLedgerEntry.ItemNo
+  name: ItemNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_NotBinMan_ILE.Location.ItemLedgerEntry.LocationCode
+  name: LocationCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_NotBinMan_ILE.Location.ItemLedgerEntry.LotNo
+  name: LotNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_NotBinMan_ILE.Location.ItemLedgerEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_NotBinMan_ILE.Location.ItemLedgerEntry.QtyperUnitofMeasure
+  name: QtyperUnitofMeasure
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_NotBinMan_ILE.Location.ItemLedgerEntry.RemainingQuantity
+  name: RemainingQuantity
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_NotBinMan_ILE.Location.ItemLedgerEntry.SerialNo
+  name: SerialNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_NotBinMan_ILE.Location.ItemLedgerEntry.UnitofMeasureCode
+  name: UnitofMeasureCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: C:Query::NICWLP_Build_Loc_NotBinMan_ILE.Location.ItemLedgerEntry.VariantCode
+  name: VariantCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: C:Query::NICWLP_CheckPackItemLedgEntry.ItemLedgerEntry.LocationCode
+  name: LocationCode
+  href: reference/warehouse-license-plating/Query/NICWLP-CheckPackItemLedgEntry.html
+- uid: C:Query::NICWLP_CheckPackItemLedgEntry.ItemLedgerEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-CheckPackItemLedgEntry.html
+- uid: C:Query::NICWLP_CheckPackItemLedgEntry.ItemLedgerEntry.Quantity
+  name: Quantity
+  href: reference/warehouse-license-plating/Query/NICWLP-CheckPackItemLedgEntry.html
+- uid: C:Query::NICWLP_Check_Pack_WH_Entry.WarehouseEntry.BinCode
+  name: BinCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-Pack-WH-Entry.html
+- uid: C:Query::NICWLP_Check_Pack_WH_Entry.WarehouseEntry.LocationCode
+  name: LocationCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-Pack-WH-Entry.html
+- uid: C:Query::NICWLP_Check_Pack_WH_Entry.WarehouseEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-Pack-WH-Entry.html
+- uid: C:Query::NICWLP_Check_Pack_WH_Entry.WarehouseEntry.Quantity
+  name: Quantity
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-Pack-WH-Entry.html
+- uid: C:Query::NICWLP_Check_PackageCtntCd_ILE.ItemLedgerEntry.EntryNo
+  name: EntryNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-ILE.html
+- uid: C:Query::NICWLP_Check_PackageCtntCd_ILE.ItemLedgerEntry.ItemNo
+  name: ItemNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-ILE.html
+- uid: C:Query::NICWLP_Check_PackageCtntCd_ILE.ItemLedgerEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-ILE.html
+- uid: C:Query::NICWLP_Check_PackageCtntCd_ILE.ItemLedgerEntry.Quantity
+  name: Quantity
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-ILE.html
+- uid: C:Query::NICWLP_Check_PackageCtntCd_ILE.ItemLedgerEntry.VariantCode
+  name: VariantCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-ILE.html
+- uid: C:Query::NICWLP_Check_PackageCtntCd_WHE.ItemLedgerEntry.EntryNo
+  name: EntryNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-WHE.html
+- uid: C:Query::NICWLP_Check_PackageCtntCd_WHE.ItemLedgerEntry.ItemNo
+  name: ItemNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-WHE.html
+- uid: C:Query::NICWLP_Check_PackageCtntCd_WHE.ItemLedgerEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-WHE.html
+- uid: C:Query::NICWLP_Check_PackageCtntCd_WHE.ItemLedgerEntry.Quantity
+  name: Quantity
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-WHE.html
+- uid: C:Query::NICWLP_Check_PackageCtntCd_WHE.ItemLedgerEntry.VariantCode
+  name: VariantCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-WHE.html
+- uid: C:Query::NICWLP_Item_Ledger_Entry.ItemLedgerEntry.EntryNo
+  name: EntryNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Item-Ledger-Entry.html
+- uid: C:Query::NICWLP_Item_Ledger_Entry.ItemLedgerEntry.ItemNo
+  name: ItemNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Item-Ledger-Entry.html
+- uid: C:Query::NICWLP_Item_Ledger_Entry.ItemLedgerEntry.LocationCode
+  name: LocationCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Item-Ledger-Entry.html
+- uid: C:Query::NICWLP_Item_Ledger_Entry.ItemLedgerEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Item-Ledger-Entry.html
+- uid: C:Query::NICWLP_Item_Ledger_Entry.ItemLedgerEntry.Quantity
+  name: Quantity
+  href: reference/warehouse-license-plating/Query/NICWLP-Item-Ledger-Entry.html
+- uid: C:Query::NICWLP_Packages.PackageNoInformation.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Packages.html
+- uid: C:Query::NICWLP_Warehouse_Entry.WarehouseEntry.BinCode
+  name: BinCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Warehouse-Entry.html
+- uid: C:Query::NICWLP_Warehouse_Entry.WarehouseEntry.EntryNo
+  name: EntryNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Warehouse-Entry.html
+- uid: C:Query::NICWLP_Warehouse_Entry.WarehouseEntry.ItemNo
+  name: ItemNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Warehouse-Entry.html
+- uid: C:Query::NICWLP_Warehouse_Entry.WarehouseEntry.LocationCode
+  name: LocationCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Warehouse-Entry.html
+- uid: C:Query::NICWLP_Warehouse_Entry.WarehouseEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Warehouse-Entry.html
+- uid: C:Query::NICWLP_Warehouse_Entry.WarehouseEntry.Quantity
+  name: Quantity
+  href: reference/warehouse-license-plating/Query/NICWLP-Warehouse-Entry.html
+- uid: C:Query::NICWLP_Whse_Entry_Bin_Detail.WarehouseEntry.BinCode
+  name: BinCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
+- uid: C:Query::NICWLP_Whse_Entry_Bin_Detail.WarehouseEntry.ItemNo
+  name: ItemNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
+- uid: C:Query::NICWLP_Whse_Entry_Bin_Detail.WarehouseEntry.LocationCode
+  name: LocationCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
+- uid: C:Query::NICWLP_Whse_Entry_Bin_Detail.WarehouseEntry.LotNo
+  name: LotNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
+- uid: C:Query::NICWLP_Whse_Entry_Bin_Detail.WarehouseEntry.PackageNo
+  name: PackageNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
+- uid: C:Query::NICWLP_Whse_Entry_Bin_Detail.WarehouseEntry.Quantity
+  name: Quantity
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
+- uid: C:Query::NICWLP_Whse_Entry_Bin_Detail.WarehouseEntry.SerialNo
+  name: SerialNo
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
+- uid: C:Query::NICWLP_Whse_Entry_Bin_Detail.WarehouseEntry.UnitofMeasureCode
+  name: UnitofMeasureCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
+- uid: C:Query::NICWLP_Whse_Entry_Bin_Detail.WarehouseEntry.VariantCode
+  name: VariantCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
+- uid: C:Query::NICWLP_Whse_Entry_Bin_Detail.WarehouseEntry.ZoneCode
+  name: ZoneCode
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
 - uid: E:Enum::NICALG_Data_Type.Date
   name: Date
   href: reference/lot-algorithms/Enum/NICALG-Data-Type.html
@@ -688,6 +940,15 @@ references:
 - uid: E:Enum::NICSOF_Rebate_Value_Type.Tiered
   name: Tiered
   href: reference/sales-offers/Enum/NICSOF-Rebate-Value-Type.html
+- uid: E:Enum::NICWLP_Package_Combinations.Allowed
+  name: Allowed
+  href: reference/warehouse-license-plating/Enum/NICWLP-Package-Combinations.html
+- uid: E:Enum::NICWLP_Package_Combinations.Blocked
+  name: Blocked
+  href: reference/warehouse-license-plating/Enum/NICWLP-Package-Combinations.html
+- uid: E:Enum::NICWLP_Package_Combinations._
+  name: "\" \""
+  href: reference/warehouse-license-plating/Enum/NICWLP-Package-Combinations.html
 - uid: E:Enum::nicmdc_API_Category.Inventory
   name: Inventory
   href: reference/mobile-data-collection/Enum/nicmdc-API-Category.html
@@ -4174,6 +4435,171 @@ references:
 - uid: F:Table::NICSOF_Sales_Offer_Setup.SystemRowVersion
   name: SystemRowVersion
   href: reference/sales-offers/Table/NICSOF-Sales-Offer-Setup.html
+- uid: F:Table::NICWLP_Item_Package_Ctnt_Code.Item_No#[20]
+  name: "\"Item No.\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Item-Package-Ctnt-Code.html
+- uid: F:Table::NICWLP_Item_Package_Ctnt_Code.Package_Content_Code[20]
+  name: "\"Package Content Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Item-Package-Ctnt-Code.html
+- uid: F:Table::NICWLP_Item_Package_Ctnt_Code.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/warehouse-license-plating/Table/NICWLP-Item-Package-Ctnt-Code.html
+- uid: F:Table::NICWLP_Item_Package_Ctnt_Code.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/warehouse-license-plating/Table/NICWLP-Item-Package-Ctnt-Code.html
+- uid: F:Table::NICWLP_Item_Package_Ctnt_Code.SystemId
+  name: SystemId
+  href: reference/warehouse-license-plating/Table/NICWLP-Item-Package-Ctnt-Code.html
+- uid: F:Table::NICWLP_Item_Package_Ctnt_Code.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/warehouse-license-plating/Table/NICWLP-Item-Package-Ctnt-Code.html
+- uid: F:Table::NICWLP_Item_Package_Ctnt_Code.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/warehouse-license-plating/Table/NICWLP-Item-Package-Ctnt-Code.html
+- uid: F:Table::NICWLP_Item_Package_Ctnt_Code.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/warehouse-license-plating/Table/NICWLP-Item-Package-Ctnt-Code.html
+- uid: F:Table::NICWLP_Item_Package_Ctnt_Code.Variant_Code[10]
+  name: "\"Variant Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Item-Package-Ctnt-Code.html
+- uid: F:Table::NICWLP_Package_Content_Code.Code[20]
+  name: Code
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Code.html
+- uid: F:Table::NICWLP_Package_Content_Code.Description[100]
+  name: Description
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Code.html
+- uid: F:Table::NICWLP_Package_Content_Code.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Code.html
+- uid: F:Table::NICWLP_Package_Content_Code.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Code.html
+- uid: F:Table::NICWLP_Package_Content_Code.SystemId
+  name: SystemId
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Code.html
+- uid: F:Table::NICWLP_Package_Content_Code.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Code.html
+- uid: F:Table::NICWLP_Package_Content_Code.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Code.html
+- uid: F:Table::NICWLP_Package_Content_Code.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Code.html
+- uid: F:Table::NICWLP_Package_Content_Comb.Combination_Restriction
+  name: "\"Combination Restriction\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Comb.html
+- uid: F:Table::NICWLP_Package_Content_Comb.Package_Content_Code_1_Code[20]
+  name: "\"Package Content Code 1 Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Comb.html
+- uid: F:Table::NICWLP_Package_Content_Comb.Package_Content_Code_2_Code[20]
+  name: "\"Package Content Code 2 Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Comb.html
+- uid: F:Table::NICWLP_Package_Content_Comb.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Comb.html
+- uid: F:Table::NICWLP_Package_Content_Comb.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Comb.html
+- uid: F:Table::NICWLP_Package_Content_Comb.SystemId
+  name: SystemId
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Comb.html
+- uid: F:Table::NICWLP_Package_Content_Comb.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Comb.html
+- uid: F:Table::NICWLP_Package_Content_Comb.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Comb.html
+- uid: F:Table::NICWLP_Package_Content_Comb.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Comb.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Bin_Code[20]
+  name: "\"Bin Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Description[100]
+  name: Description
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Entry_No#
+  name: "\"Entry No.\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Expiration_Date
+  name: "\"Expiration Date\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Item_No#[20]
+  name: "\"Item No.\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Location_Code[10]
+  name: "\"Location Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Lot_No#[50]
+  name: "\"Lot No.\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Package_No#[50]
+  name: "\"Package No.\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Qty#_(Base)
+  name: "\"Qty. (Base)\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Qty#_per_Unit_of_Measure
+  name: "\"Qty. per Unit of Measure\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Quantity
+  name: Quantity
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Serial_No#[50]
+  name: "\"Serial No.\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.SystemId
+  name: SystemId
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Unit_of_Measure_Code[10]
+  name: "\"Unit of Measure Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Variant_Code[10]
+  name: "\"Variant Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_Package_Contents_Buffer.Zone_Code[10]
+  name: "\"Zone Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: F:Table::NICWLP_RESTStripeConfig.IsMockConfig
+  name: IsMockConfig
+  href: reference/warehouse-license-plating/Table/NICWLP-RESTStripeConfig.html
+- uid: F:Table::NICWLP_RESTStripeConfig.Primary_Key[10]
+  name: "\"Primary Key\""
+  href: reference/warehouse-license-plating/Table/NICWLP-RESTStripeConfig.html
+- uid: F:Table::NICWLP_RESTStripeConfig.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/warehouse-license-plating/Table/NICWLP-RESTStripeConfig.html
+- uid: F:Table::NICWLP_RESTStripeConfig.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/warehouse-license-plating/Table/NICWLP-RESTStripeConfig.html
+- uid: F:Table::NICWLP_RESTStripeConfig.SystemId
+  name: SystemId
+  href: reference/warehouse-license-plating/Table/NICWLP-RESTStripeConfig.html
+- uid: F:Table::NICWLP_RESTStripeConfig.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/warehouse-license-plating/Table/NICWLP-RESTStripeConfig.html
+- uid: F:Table::NICWLP_RESTStripeConfig.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/warehouse-license-plating/Table/NICWLP-RESTStripeConfig.html
+- uid: F:Table::NICWLP_RESTStripeConfig.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/warehouse-license-plating/Table/NICWLP-RESTStripeConfig.html
 - uid: F:Table::nicmdcLabels.BinBarCode[250]
   name: BinBarCode
   href: reference/mobile-data-collection/Table/nicmdcLabels.html
@@ -4981,6 +5407,18 @@ references:
 - uid: F:TableExtension::NICSOF_Sales_Line.NICSOF_Exclude_From_Rebates
   name: "\"NICSOF Exclude From Rebates\""
   href: reference/sales-offers/TableExtension/NICSOF-Sales-Line.html
+- uid: F:TableExtension::NICWLP_Bin.NICWLP_Ignore_Strict_Pkg_Pstng
+  name: "\"NICWLP Ignore Strict Pkg Pstng\""
+  href: reference/warehouse-license-plating/TableExtension/NICWLP-Bin.html
+- uid: F:TableExtension::NICWLP_Inventory_Setup.NICWLP_Default_Package_No#[50]
+  name: "\"NICWLP Default Package No.\""
+  href: reference/warehouse-license-plating/TableExtension/NICWLP-Inventory-Setup.html
+- uid: F:TableExtension::NICWLP_Inventory_Setup.NICWLP_Package_Label
+  name: "\"NICWLP Package Label\""
+  href: reference/warehouse-license-plating/TableExtension/NICWLP-Inventory-Setup.html
+- uid: F:TableExtension::NICWLP_Inventory_Setup.NICWLP_Strict_Package_Posting
+  name: "\"NICWLP Strict Package Posting\""
+  href: reference/warehouse-license-plating/TableExtension/NICWLP-Inventory-Setup.html
 - uid: F:TableExtension::nicmdcItemJournalLine.nicmdcContainerBuild
   name: nicmdcContainerBuild
   href: reference/mobile-data-collection/TableExtension/nicmdcItemJournalLine.html
@@ -5377,6 +5815,60 @@ references:
 - uid: M:Codeunit::NICSOF_Rebate_Jnl#-Post_Line.RunWithCheck(NICSOF_Rebate_Journal_Line@):Boolean
   name: RunWithCheck
   href: reference/sales-offers/Codeunit/NICSOF-Rebate-Jnl.-Post-Line.html
+- uid: M:Codeunit::NICWLP_Check_Package.BuildPackageContents(NICWLP_Package_Contents_Buffer@,Boolean,Boolean)
+  name: BuildPackageContents
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.BuildPackageContentsConflicts(NICWLP_Package_Contents_Buffer@)
+  name: BuildPackageContentsConflicts
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.CheckDefaultPackageNo
+  name: CheckDefaultPackageNo
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.CheckPackage(Boolean,Boolean)
+  name: CheckPackage
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.CheckPackage(Integer,Integer)
+  name: CheckPackage
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.CheckPackageContents:Boolean
+  name: CheckPackageContents
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.DefaultPackageNoExist:Boolean
+  name: DefaultPackageNoExist
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.GetDefaultPackageNo(Code[50]@):Boolean
+  name: GetDefaultPackageNo
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.GetPackageContent(NICWLP_Package_Contents_Buffer@)
+  name: GetPackageContent
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.IsStrictPackagePosting:Boolean
+  name: IsStrictPackagePosting
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.PackageContentsConflictsNotification(Integer)
+  name: PackageContentsConflictsNotification
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Check_Package.PackageContentsNotStrictPostingNotification
+  name: PackageContentsNotStrictPostingNotification
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: M:Codeunit::NICWLP_Package_Caption_Class.OnItemTrackingCaptionClassTranslate(Text,Boolean@,Text@)
+  name: OnItemTrackingCaptionClassTranslate
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Package-Caption-Class.html
+- uid: M:Codeunit::NICWLP_Print_Package_Label.PrintPackageLabel(Package_No#_Information)
+  name: PrintPackageLabel
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Print-Package-Label.html
+- uid: M:Codeunit::NICWLP_Single_Instance_Subs.GetDefaultPackageNo:Code[50]
+  name: GetDefaultPackageNo
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Single-Instance-Subs.html
+- uid: M:Codeunit::NICWLP_Single_Instance_Subs.SetAssignPackageNo(Boolean)
+  name: SetAssignPackageNo
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Single-Instance-Subs.html
+- uid: M:Codeunit::NICWLP_Single_Instance_Subs.SetDefaultPackageNo(Code[50])
+  name: SetDefaultPackageNo
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Single-Instance-Subs.html
+- uid: M:Codeunit::NICWLP_Single_Instance_Subs.SetUseDefaultPackageNo(Boolean)
+  name: SetUseDefaultPackageNo
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Single-Instance-Subs.html
 - uid: M:Codeunit::nicmdcInventoryFunctions.AssignLotNo(Item_Journal_Line,Decimal)
   name: AssignLotNo
   href: reference/mobile-data-collection/Codeunit/nicmdcInventoryFunctions.html
@@ -6613,6 +7105,33 @@ references:
 - uid: M:Page::NICSOF_SOF_Setup_Wizard.IsSetupFinished:Boolean
   name: IsSetupFinished
   href: reference/sales-offers/Page/NICSOF-SOF-Setup-Wizard.html
+- uid: M:Page::NICWLP_Bin_Factbox.SetPageContent(NICWLP_Package_Contents_Buffer@)
+  name: SetPageContent
+  href: reference/warehouse-license-plating/Page/NICWLP-Bin-Factbox.html
+- uid: M:Page::NICWLP_Item_Tracking_Factbox.SetItemTrackingFactbox
+  name: SetItemTrackingFactbox
+  href: reference/warehouse-license-plating/Page/NICWLP-Item-Tracking-Factbox.html
+- uid: M:Page::NICWLP_PackageCtntCombMatrix.Load(Text[1024][],NICWLP_Package_Content_Code[]@,Boolean)
+  name: Load
+  href: reference/warehouse-license-plating/Page/NICWLP-PackageCtntCombMatrix.html
+- uid: M:Page::NICWLP_PackageCtntCombMatrix.SetSelectedPackCtntCode(Code[20])
+  name: SetSelectedPackCtntCode
+  href: reference/warehouse-license-plating/Page/NICWLP-PackageCtntCombMatrix.html
+- uid: M:Page::NICWLP_PackageCtntCombMatrix.SetVisible
+  name: SetVisible
+  href: reference/warehouse-license-plating/Page/NICWLP-PackageCtntCombMatrix.html
+- uid: M:Page::NICWLP_Package_Content_Comb.SetSelectedRecord(NICWLP_Package_Content_Comb)
+  name: SetSelectedRecord
+  href: reference/warehouse-license-plating/Page/NICWLP-Package-Content-Comb.html
+- uid: M:Page::NICWLP_Package_Contents.GetItemDescr(Code[20],Code[10],Text[100]@)
+  name: GetItemDescr
+  href: reference/warehouse-license-plating/Page/NICWLP-Package-Contents.html
+- uid: M:Page::NICWLP_Package_Details_Factbox.SetPageContent(Package_No#_Information@)
+  name: SetPageContent
+  href: reference/warehouse-license-plating/Page/NICWLP-Package-Details-Factbox.html
+- uid: M:Page::NICWLP_WLP_Setup_Wizard.IsSetupFinished:Boolean
+  name: IsSetupFinished
+  href: reference/warehouse-license-plating/Page/NICWLP-WLP-Setup-Wizard.html
 - uid: M:Page::nicmdcbuffer.LoadBinContentData(Code[10],Code[20])
   name: LoadBinContentData
   href: reference/mobile-data-collection/Page/nicmdcbuffer.html
@@ -6799,6 +7318,9 @@ references:
 - uid: M:TableExtension::NICPBA_Production_BOM_Line.NICPBA_SetFromParentQuantityChange(Boolean)
   name: NICPBA_SetFromParentQuantityChange
   href: reference/production-batching/TableExtension/NICPBA-Production-BOM-Line.html
+- uid: M:TableExtension::NICWLP_Tracking_Specification.NICWLPAssignDefaultPackageNo(Tracking_Specification@,Boolean@)
+  name: NICWLPAssignDefaultPackageNo
+  href: reference/warehouse-license-plating/TableExtension/NICWLP-Tracking-Specification.html
 - uid: M:TableExtension::NICYLD_ProdOrderComponent.NICYLD_CalcActualCost:Decimal
   name: NICYLD_CalcActualCost
   href: reference/production-yield-metrics/TableExtension/NICYLD-ProdOrderComponent.html
@@ -7053,6 +7575,22 @@ references:
   href: reference/serial-shipping-container-codes/Obsoletion/obsolete_by_23.2.html
 - uid: N:Module::Serial_Shipping_Container_Codes_obsolete_by_23.2#23.2
   href: reference/serial-shipping-container-codes/Obsoletion/obsolete_by_23.2.html
+- uid: N:Module::Warehouse_License_Plating
+  name: Warehouse License Plating
+  summary: >
+    <p sourcefile="reference/warehouse-license-plating/Module/Warehouse-License-Plating.yml" sourcestartlinenumber="1" jsonPath="/summary">Warehouse License Plating contains features that allow you to view and control package-tracked inventory.</p>
+  fqName: Warehouse License Plating by NIC Systems Inc. (23.3.8357.0)
+  href: reference/warehouse-license-plating/Module/Warehouse-License-Plating.html
+- uid: N:Module::Warehouse_License_Plating_obsolete_by_22.2
+  tag: "22.2"
+  href: reference/warehouse-license-plating/Obsoletion/obsolete_by_22.2.html
+- uid: N:Module::Warehouse_License_Plating_obsolete_by_22.2#22.2
+  href: reference/warehouse-license-plating/Obsoletion/obsolete_by_22.2.html
+- uid: N:Module::Warehouse_License_Plating_obsolete_by_23.0
+  tag: "23.0"
+  href: reference/warehouse-license-plating/Obsoletion/obsolete_by_23.0.html
+- uid: N:Module::Warehouse_License_Plating_obsolete_by_23.0#23.0
+  href: reference/warehouse-license-plating/Obsoletion/obsolete_by_23.0.html
 - uid: O:Codeunit::NICALG_AlgorithmDateHandler
   name: "\"NICALG AlgorithmDateHandler\""
   fqName: "\"NICALG AlgorithmDateHandler\""
@@ -7981,6 +8519,54 @@ references:
   name: "\"NICSOF Validate Rebate Handler\""
   fqName: "\"NICSOF Validate Rebate Handler\""
   href: reference/sales-offers/Codeunit/NICSOF-Validate-Rebate-Handler.html
+- uid: O:Codeunit::NICWLP_Assign_Package_and_Lot
+  name: "\"NICWLP Assign Package and Lot\""
+  fqName: "\"NICWLP Assign Package and Lot\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Assign-Package-and-Lot.html
+- uid: O:Codeunit::NICWLP_Barcode_Management
+  name: "\"NICWLP Barcode Management\""
+  fqName: "\"NICWLP Barcode Management\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Barcode-Management.html
+- uid: O:Codeunit::NICWLP_Check_Package
+  name: "\"NICWLP Check Package\""
+  fqName: "\"NICWLP Check Package\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package.html
+- uid: O:Codeunit::NICWLP_Check_Package_Content
+  name: "\"NICWLP Check Package Content\""
+  fqName: "\"NICWLP Check Package Content\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package-Content.html
+- uid: O:Codeunit::NICWLP_Check_Package_Impl#
+  name: "\"NICWLP Check Package Impl.\""
+  fqName: "\"NICWLP Check Package Impl.\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Check-Package-Impl..html
+- uid: O:Codeunit::NICWLP_Get_Package_Content
+  name: "\"NICWLP Get Package Content\""
+  fqName: "\"NICWLP Get Package Content\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Get-Package-Content.html
+- uid: O:Codeunit::NICWLP_Guided_Exp_Manual_Setup
+  name: "\"NICWLP Guided Exp Manual Setup\""
+  fqName: "\"NICWLP Guided Exp Manual Setup\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Guided-Exp-Manual-Setup.html
+- uid: O:Codeunit::NICWLP_Install
+  name: "\"NICWLP Install\""
+  fqName: "\"NICWLP Install\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Install.html
+- uid: O:Codeunit::NICWLP_Package_Caption_Class
+  name: "\"NICWLP Package Caption Class\""
+  fqName: "\"NICWLP Package Caption Class\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Package-Caption-Class.html
+- uid: O:Codeunit::NICWLP_Print_Package_Label
+  name: "\"NICWLP Print Package Label\""
+  fqName: "\"NICWLP Print Package Label\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Print-Package-Label.html
+- uid: O:Codeunit::NICWLP_Setup_Wizard_Handler
+  name: "\"NICWLP Setup Wizard Handler\""
+  fqName: "\"NICWLP Setup Wizard Handler\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Setup-Wizard-Handler.html
+- uid: O:Codeunit::NICWLP_Single_Instance_Subs
+  name: "\"NICWLP Single Instance Subs\""
+  fqName: "\"NICWLP Single Instance Subs\""
+  href: reference/warehouse-license-plating/Codeunit/NICWLP-Single-Instance-Subs.html
 - uid: O:Codeunit::NICYLD_FinishedCostCalculation
   name: "\"NICYLD FinishedCostCalculation\""
   fqName: "\"NICYLD FinishedCostCalculation\""
@@ -8165,6 +8751,10 @@ references:
   name: "\"NICSOF Rebate Value Type\""
   fqName: "\"NICSOF Rebate Value Type\""
   href: reference/sales-offers/Enum/NICSOF-Rebate-Value-Type.html
+- uid: O:Enum::NICWLP_Package_Combinations
+  name: "\"NICWLP Package Combinations\""
+  fqName: "\"NICWLP Package Combinations\""
+  href: reference/warehouse-license-plating/Enum/NICWLP-Package-Combinations.html
 - uid: O:Enum::nicmdc_API_Category
   name: "\"nicmdc API Category\""
   fqName: "\"nicmdc API Category\""
@@ -8841,6 +9431,42 @@ references:
   name: "\"NICSOF Sales Offer Setup\""
   fqName: "\"NICSOF Sales Offer Setup\""
   href: reference/sales-offers/Page/NICSOF-Sales-Offer-Setup.html
+- uid: O:Page::NICWLP_Bin_Factbox
+  name: "\"NICWLP Bin Factbox\""
+  fqName: "\"NICWLP Bin Factbox\""
+  href: reference/warehouse-license-plating/Page/NICWLP-Bin-Factbox.html
+- uid: O:Page::NICWLP_Item_Package_Ctnt_Code
+  name: "\"NICWLP Item Package Ctnt Code\""
+  fqName: "\"NICWLP Item Package Ctnt Code\""
+  href: reference/warehouse-license-plating/Page/NICWLP-Item-Package-Ctnt-Code.html
+- uid: O:Page::NICWLP_Item_Tracking_Factbox
+  name: "\"NICWLP Item Tracking Factbox\""
+  fqName: "\"NICWLP Item Tracking Factbox\""
+  href: reference/warehouse-license-plating/Page/NICWLP-Item-Tracking-Factbox.html
+- uid: O:Page::NICWLP_PackageCtntCombMatrix
+  name: "\"NICWLP PackageCtntCombMatrix\""
+  fqName: "\"NICWLP PackageCtntCombMatrix\""
+  href: reference/warehouse-license-plating/Page/NICWLP-PackageCtntCombMatrix.html
+- uid: O:Page::NICWLP_Package_Content_Codes
+  name: "\"NICWLP Package Content Codes\""
+  fqName: "\"NICWLP Package Content Codes\""
+  href: reference/warehouse-license-plating/Page/NICWLP-Package-Content-Codes.html
+- uid: O:Page::NICWLP_Package_Content_Comb
+  name: "\"NICWLP Package Content Comb\""
+  fqName: "\"NICWLP Package Content Comb\""
+  href: reference/warehouse-license-plating/Page/NICWLP-Package-Content-Comb.html
+- uid: O:Page::NICWLP_Package_Contents
+  name: "\"NICWLP Package Contents\""
+  fqName: "\"NICWLP Package Contents\""
+  href: reference/warehouse-license-plating/Page/NICWLP-Package-Contents.html
+- uid: O:Page::NICWLP_Package_Details_Factbox
+  name: "\"NICWLP Package Details Factbox\""
+  fqName: "\"NICWLP Package Details Factbox\""
+  href: reference/warehouse-license-plating/Page/NICWLP-Package-Details-Factbox.html
+- uid: O:Page::NICWLP_WLP_Setup_Wizard
+  name: "\"NICWLP WLP Setup Wizard\""
+  fqName: "\"NICWLP WLP Setup Wizard\""
+  href: reference/warehouse-license-plating/Page/NICWLP-WLP-Setup-Wizard.html
 - uid: O:Page::NICYLD_ComponentAnalysisFctBx
   name: "\"NICYLD ComponentAnalysisFctBx\""
   fqName: "\"NICYLD ComponentAnalysisFctBx\""
@@ -9633,6 +10259,50 @@ references:
   name: "\"NICSOF SalesOrderSubform\""
   fqName: "\"NICSOF SalesOrderSubform\""
   href: reference/sales-offers/PageExtension/NICSOF-SalesOrderSubform.html
+- uid: O:PageExtension::NICWLP_Bin_List
+  name: "\"NICWLP Bin List\""
+  fqName: "\"NICWLP Bin List\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Bin-List.html
+- uid: O:PageExtension::NICWLP_Bins
+  name: "\"NICWLP Bins\""
+  fqName: "\"NICWLP Bins\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Bins.html
+- uid: O:PageExtension::NICWLP_Inventory_Setup
+  name: "\"NICWLP Inventory Setup\""
+  fqName: "\"NICWLP Inventory Setup\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Inventory-Setup.html
+- uid: O:PageExtension::NICWLP_Item_Card
+  name: "\"NICWLP Item Card\""
+  fqName: "\"NICWLP Item Card\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Item-Card.html
+- uid: O:PageExtension::NICWLP_Item_List
+  name: "\"NICWLP Item List\""
+  fqName: "\"NICWLP Item List\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Item-List.html
+- uid: O:PageExtension::NICWLP_Item_Tracking_Lines
+  name: "\"NICWLP Item Tracking Lines\""
+  fqName: "\"NICWLP Item Tracking Lines\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Item-Tracking-Lines.html
+- uid: O:PageExtension::NICWLP_Item_Variant_Card
+  name: "\"NICWLP Item Variant Card\""
+  fqName: "\"NICWLP Item Variant Card\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Item-Variant-Card.html
+- uid: O:PageExtension::NICWLP_Item_Variants
+  name: "\"NICWLP Item Variants\""
+  fqName: "\"NICWLP Item Variants\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Item-Variants.html
+- uid: O:PageExtension::NICWLP_Lot_No#_Info_List
+  name: "\"NICWLP Lot No. Info List\""
+  fqName: "\"NICWLP Lot No. Info List\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Lot-No.-Info-List.html
+- uid: O:PageExtension::NICWLP_Package_No#_Info_List
+  name: "\"NICWLP Package No. Info List\""
+  fqName: "\"NICWLP Package No. Info List\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Package-No.-Info-List.html
+- uid: O:PageExtension::NICWLP_Zone_List
+  name: "\"NICWLP Zone List\""
+  fqName: "\"NICWLP Zone List\""
+  href: reference/warehouse-license-plating/PageExtension/NICWLP-Zone-List.html
 - uid: O:PageExtension::NICYLD_FinishedProdOrder
   name: "\"NICYLD FinishedProdOrder\""
   fqName: "\"NICYLD FinishedProdOrder\""
@@ -9853,6 +10523,22 @@ references:
   name: "\"NICSOF Read\""
   fqName: "\"NICSOF Read\""
   href: reference/sales-offers/PermissionSet/NICSOF-Read.html
+- uid: O:PermissionSet::NICWLP_Objects
+  name: "\"NICWLP Objects\""
+  fqName: "\"NICWLP Objects\""
+  href: reference/warehouse-license-plating/PermissionSet/NICWLP-Objects.html
+- uid: O:PermissionSet::NICWLP_WhLicPlatEdit
+  name: "\"NICWLP WhLicPlatEdit\""
+  fqName: "\"NICWLP WhLicPlatEdit\""
+  href: reference/warehouse-license-plating/PermissionSet/NICWLP-WhLicPlatEdit.html
+- uid: O:PermissionSet::NICWLP_WhLicPlatRead
+  name: "\"NICWLP WhLicPlatRead\""
+  fqName: "\"NICWLP WhLicPlatRead\""
+  href: reference/warehouse-license-plating/PermissionSet/NICWLP-WhLicPlatRead.html
+- uid: O:PermissionSet::NICWLP_WhLicensePlatingObjects
+  name: "\"NICWLP WhLicensePlatingObjects\""
+  fqName: "\"NICWLP WhLicensePlatingObjects\""
+  href: reference/warehouse-license-plating/PermissionSet/NICWLP-WhLicensePlatingObjects.html
 - uid: O:PermissionSet::NICYLD_Objects
   name: "\"NICYLD Objects\""
   fqName: "\"NICYLD Objects\""
@@ -10005,6 +10691,66 @@ references:
   name: "\"NICPBA ConsumptionByBatch\""
   fqName: "\"NICPBA ConsumptionByBatch\""
   href: reference/production-batching/Query/NICPBA-ConsumptionByBatch.html
+- uid: O:Query::NICWLP_Build_Item_Not_PWT
+  name: "\"NICWLP Build Item Not PWT\""
+  fqName: "\"NICWLP Build Item Not PWT\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Item-Not-PWT.html
+- uid: O:Query::NICWLP_Build_Item_Not_Tracked
+  name: "\"NICWLP Build Item Not Tracked\""
+  fqName: "\"NICWLP Build Item Not Tracked\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Item-Not-Tracked.html
+- uid: O:Query::NICWLP_Build_Item_PWT
+  name: "\"NICWLP Build Item PWT\""
+  fqName: "\"NICWLP Build Item PWT\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Item-PWT.html
+- uid: O:Query::NICWLP_Build_LocBinMan_ILE
+  name: "\"NICWLP Build LocBinMan ILE\""
+  fqName: "\"NICWLP Build LocBinMan ILE\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-ILE.html
+- uid: O:Query::NICWLP_Build_LocBinMan_WE
+  name: "\"NICWLP Build LocBinMan WE\""
+  fqName: "\"NICWLP Build LocBinMan WE\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-LocBinMan-WE.html
+- uid: O:Query::NICWLP_Build_Loc_Blank_ILE
+  name: "\"NICWLP Build Loc Blank ILE\""
+  fqName: "\"NICWLP Build Loc Blank ILE\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-Blank-ILE.html
+- uid: O:Query::NICWLP_Build_Loc_NotBinMan_ILE
+  name: "\"NICWLP Build Loc NotBinMan ILE\""
+  fqName: "\"NICWLP Build Loc NotBinMan ILE\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Build-Loc-NotBinMan-ILE.html
+- uid: O:Query::NICWLP_CheckPackItemLedgEntry
+  name: "\"NICWLP CheckPackItemLedgEntry\""
+  fqName: "\"NICWLP CheckPackItemLedgEntry\""
+  href: reference/warehouse-license-plating/Query/NICWLP-CheckPackItemLedgEntry.html
+- uid: O:Query::NICWLP_Check_Pack_WH_Entry
+  name: "\"NICWLP Check Pack WH Entry\""
+  fqName: "\"NICWLP Check Pack WH Entry\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-Pack-WH-Entry.html
+- uid: O:Query::NICWLP_Check_PackageCtntCd_ILE
+  name: "\"NICWLP Check PackageCtntCd ILE\""
+  fqName: "\"NICWLP Check PackageCtntCd ILE\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-ILE.html
+- uid: O:Query::NICWLP_Check_PackageCtntCd_WHE
+  name: "\"NICWLP Check PackageCtntCd WHE\""
+  fqName: "\"NICWLP Check PackageCtntCd WHE\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Check-PackageCtntCd-WHE.html
+- uid: O:Query::NICWLP_Item_Ledger_Entry
+  name: "\"NICWLP Item Ledger Entry\""
+  fqName: "\"NICWLP Item Ledger Entry\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Item-Ledger-Entry.html
+- uid: O:Query::NICWLP_Packages
+  name: "\"NICWLP Packages\""
+  fqName: "\"NICWLP Packages\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Packages.html
+- uid: O:Query::NICWLP_Warehouse_Entry
+  name: "\"NICWLP Warehouse Entry\""
+  fqName: "\"NICWLP Warehouse Entry\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Warehouse-Entry.html
+- uid: O:Query::NICWLP_Whse_Entry_Bin_Detail
+  name: "\"NICWLP Whse Entry Bin Detail\""
+  fqName: "\"NICWLP Whse Entry Bin Detail\""
+  href: reference/warehouse-license-plating/Query/NICWLP-Whse-Entry-Bin-Detail.html
 - uid: O:Report::NICALG_Item_Maintenance
   name: "\"NICALG Item Maintenance\""
   fqName: "\"NICALG Item Maintenance\""
@@ -10041,6 +10787,10 @@ references:
   name: "\"NICSOF Post Rebates to G/L\""
   fqName: "\"NICSOF Post Rebates to G/L\""
   href: reference/sales-offers/Report/NICSOF-Post-Rebates-to-G-L.html
+- uid: O:Report::NICWLP_Package_Label
+  name: "\"NICWLP Package Label\""
+  fqName: "\"NICWLP Package Label\""
+  href: reference/warehouse-license-plating/Report/NICWLP-Package-Label.html
 - uid: O:Report::nicmdcBinContentLabelRDL
   name: nicmdcBinContentLabelRDL
   fqName: nicmdcBinContentLabelRDL
@@ -10405,6 +11155,26 @@ references:
   name: "\"NICSOF Sales Offer Setup\""
   fqName: "\"NICSOF Sales Offer Setup\""
   href: reference/sales-offers/Table/NICSOF-Sales-Offer-Setup.html
+- uid: O:Table::NICWLP_Item_Package_Ctnt_Code
+  name: "\"NICWLP Item Package Ctnt Code\""
+  fqName: "\"NICWLP Item Package Ctnt Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Item-Package-Ctnt-Code.html
+- uid: O:Table::NICWLP_Package_Content_Code
+  name: "\"NICWLP Package Content Code\""
+  fqName: "\"NICWLP Package Content Code\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Code.html
+- uid: O:Table::NICWLP_Package_Content_Comb
+  name: "\"NICWLP Package Content Comb\""
+  fqName: "\"NICWLP Package Content Comb\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Content-Comb.html
+- uid: O:Table::NICWLP_Package_Contents_Buffer
+  name: "\"NICWLP Package Contents Buffer\""
+  fqName: "\"NICWLP Package Contents Buffer\""
+  href: reference/warehouse-license-plating/Table/NICWLP-Package-Contents-Buffer.html
+- uid: O:Table::NICWLP_RESTStripeConfig
+  name: "\"NICWLP RESTStripeConfig\""
+  fqName: "\"NICWLP RESTStripeConfig\""
+  href: reference/warehouse-license-plating/Table/NICWLP-RESTStripeConfig.html
 - uid: O:Table::nicmdcLabels
   name: nicmdcLabels
   fqName: nicmdcLabels
@@ -10745,6 +11515,18 @@ references:
   name: "\"NICSOF Sales Line\""
   fqName: "\"NICSOF Sales Line\""
   href: reference/sales-offers/TableExtension/NICSOF-Sales-Line.html
+- uid: O:TableExtension::NICWLP_Bin
+  name: "\"NICWLP Bin\""
+  fqName: "\"NICWLP Bin\""
+  href: reference/warehouse-license-plating/TableExtension/NICWLP-Bin.html
+- uid: O:TableExtension::NICWLP_Inventory_Setup
+  name: "\"NICWLP Inventory Setup\""
+  fqName: "\"NICWLP Inventory Setup\""
+  href: reference/warehouse-license-plating/TableExtension/NICWLP-Inventory-Setup.html
+- uid: O:TableExtension::NICWLP_Tracking_Specification
+  name: "\"NICWLP Tracking Specification\""
+  fqName: "\"NICWLP Tracking Specification\""
+  href: reference/warehouse-license-plating/TableExtension/NICWLP-Tracking-Specification.html
 - uid: O:TableExtension::NICYLD_ProdOrderComponent
   name: "\"NICYLD ProdOrderComponent\""
   fqName: "\"NICYLD ProdOrderComponent\""
